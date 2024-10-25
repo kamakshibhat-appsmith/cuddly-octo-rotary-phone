@@ -1,0 +1,25 @@
+{
+  "gitSyncId": "8930292d-dea5-4a8e-a1a5-33dbc70210c8_8650255e-b50b-4ba1-a795-7aafc8058792",
+  "id": "Page1_QueryModule11",
+  "moduleUUID": "b9887b3b-a3d0-48a3-8277-022413ced7cb",
+  "packageUUID": "5d63539d-02a8-4e2f-b651-6afff01800ba",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "input1": "1"
+    },
+    "moduleInputs": {
+      "nvdkdukenz": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "1",
+        "id": "nvdkdukenz",
+        "label": "input1",
+        "propertyName": "inputs.input1"
+      }
+    },
+    "name": "QueryModule11",
+    "pageId": "Page1",
+    "version": "0.0.1"
+  }
+}
